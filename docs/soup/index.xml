@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Soups on Patrice&#39;s favourite recipes</title>
+    <link>https://patricerecipebook.com/soup/</link>
+    <description>Recent content in Soups on Patrice&#39;s favourite recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 27 Aug 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://patricerecipebook.com/soup/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Carrot ginger soup</title>
+      <link>https://patricerecipebook.com/soup/carrot_ginger_soup/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://patricerecipebook.com/soup/carrot_ginger_soup/</guid>
+      <description>Ingredients  3 lb peeled carrots Olive oil Salt and pepper 1 peeled, cored apple cut into thin slices 1 onion, diced 2 cloves of garlic, pressed ~ 2-4 tablespoons of chopped fresh ginger (can add more if you like the flavor) 1 tsp ground coriander 1 tsp all spice 4-7 cups of vegetable broth Half-and-half cream (optional) Fresh cilantro (optional)  Directions  Roast carrots at 425F for 45 minutes on a baking sheet with olive oil, salt and pepper, turning over half way.</description>
+    </item>
+    
+  </channel>
+</rss>

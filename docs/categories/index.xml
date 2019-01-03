@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Patrice&#39;s favourite recipes</title>
+    <link>https://patricerecipebook.com/categories/</link>
+    <description>Recent content in Categories on Patrice&#39;s favourite recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	<atom:link href="https://patricerecipebook.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dessert</title>
+      <link>https://patricerecipebook.com/categories/dessert/</link>
+      <pubDate>Fri, 28 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://patricerecipebook.com/categories/dessert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dressing</title>
+      <link>https://patricerecipebook.com/categories/dressing/</link>
+      <pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://patricerecipebook.com/categories/dressing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mains</title>
+      <link>https://patricerecipebook.com/categories/mains/</link>
+      <pubDate>Tue, 02 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://patricerecipebook.com/categories/mains/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>https://patricerecipebook.com/categories/other/</link>
+      <pubDate>Wed, 18 Jul 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://patricerecipebook.com/categories/other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salad</title>
+      <link>https://patricerecipebook.com/categories/salad/</link>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://patricerecipebook.com/categories/salad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Soup</title>
+      <link>https://patricerecipebook.com/categories/soup/</link>
+      <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://patricerecipebook.com/categories/soup/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

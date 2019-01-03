@@ -1,0 +1,31 @@
+---
+title: Greek orzo salad
+date: "2016-07-13"
+description: "Greek orzo salad"
+categories:
+- salad
+---
+
+### Ingredients
+- 1 1/2 cups uncooked orzo pasta
+- 2 (6 ounce) cans marinated artichoke hearts
+- 1 tomato, seeded and chopped
+- 1 cucumber, seeded and chopped
+- 1 red onion, chopped
+- 1 cup crumbled feta cheese
+- 1 (2 ounce) can black olives, drained
+- 1/4 cup chopped fresh parsley
+- 1 tablespoon lemon juice
+- 1/2 teaspoon dried oregano
+- 1/2 teaspoon lemon pepper
+- Add all ingredients to list
+
+
+### Directions
+
+1. Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain. Drain artichoke hearts, reserving liquid.
+2. In large bowl combine pasta, artichoke hearts, tomato, cucumber, onion, feta, olives, parsley, lemon juice, oregano and lemon pepper. Toss and chill for 1 hour in refrigerator.
+3. Just before serving, drizzle reserved artichoke marinade over salad.
+
+#### Notes
+Prep: 1h10m; Cook:10m; Ready in: 1h20m

@@ -1,0 +1,56 @@
+# Site settings
+baseurl = "https://patricerecipebook.com/"
+title = "Patrice's favourite recipes"
+paginate = 50
+buildFuture = true
+ignoreFiles = ["template.md"]
+publishDir = "docs"
+
+
+[[menu.main]]
+  name = "main"
+  title = "main"
+  url = "/main/"
+
+[[menu.main]]
+  name = "salad"
+  title = "salad"
+  url = "/salad/"
+
+[[menu.main]]
+  name = "soup"
+  title = "soup"
+  url = "/soup/"
+
+[[menu.main]]
+  name = "dessert"
+  title = "dessert"
+  url = "/dessert/"
+
+[[menu.main]]
+  name = "etc"
+  title = "etc"
+  url = "/etc/"
+
+
+
+
+
+[params]
+  # author = "David Jacques"
+  classes = [
+    "feature-hyphenate",
+    "feature-justify",
+    "feature-figcaption",
+    "feature-figlink",
+    "feature-fignum",
+    "feature-nohdr"
+  ]
+
+
+[outputs]
+  home = ["HTML", "JSON", "RSS"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  taxonomyTerm = ["HTML", "RSS"]
