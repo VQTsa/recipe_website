@@ -5,30 +5,13 @@
     <link>https://patricerecipebook.com/categories/</link>
     <description>Recent content in Categories on Patrice&#39;s favourite recipes</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 08 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://patricerecipebook.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Dessert</title>
-      <link>https://patricerecipebook.com/categories/dessert/</link>
-      <pubDate>Fri, 28 Sep 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://patricerecipebook.com/categories/dessert/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dressing</title>
-      <link>https://patricerecipebook.com/categories/dressing/</link>
-      <pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate>
-      
-      <guid>https://patricerecipebook.com/categories/dressing/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mains</title>
+      <title>mains</title>
       <link>https://patricerecipebook.com/categories/mains/</link>
       <pubDate>Tue, 08 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -37,7 +20,7 @@
     </item>
     
     <item>
-      <title>Other</title>
+      <title>other</title>
       <link>https://patricerecipebook.com/categories/other/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
       
@@ -46,7 +29,7 @@
     </item>
     
     <item>
-      <title>Salad</title>
+      <title>salad</title>
       <link>https://patricerecipebook.com/categories/salad/</link>
       <pubDate>Fri, 21 Dec 2018 00:00:00 +0000</pubDate>
       
@@ -55,11 +38,29 @@
     </item>
     
     <item>
-      <title>Soup</title>
+      <title>soup</title>
       <link>https://patricerecipebook.com/categories/soup/</link>
       <pubDate>Sun, 27 Aug 2017 00:00:00 +0000</pubDate>
       
       <guid>https://patricerecipebook.com/categories/soup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dessert</title>
+      <link>https://patricerecipebook.com/categories/dessert/</link>
+      <pubDate>Fri, 28 Sep 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://patricerecipebook.com/categories/dessert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dressing</title>
+      <link>https://patricerecipebook.com/categories/dressing/</link>
+      <pubDate>Thu, 16 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://patricerecipebook.com/categories/dressing/</guid>
       <description></description>
     </item>
     
