@@ -1,14 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Desserts on Patrice&#39;s favourite recipes</title>
     <link>https://patricerecipebook.com/dessert/</link>
     <description>Recent content in Desserts on Patrice&#39;s favourite recipes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 Sep 2012 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://patricerecipebook.com/dessert/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Peppermint and chocolate cookies</title>
+      <link>https://patricerecipebook.com/dessert/heart_cookies/</link>
+      <pubDate>Fri, 21 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://patricerecipebook.com/dessert/heart_cookies/</guid>
+      <description>Ingredients Cookies
+ 175 mL sugar 250 mL butter softened 1 package (85 grams) cream cheese, softened 1 egg 1 teaspoon peppermint extract 710 mL all purpose flower  Glaze
+ 250 mL semi-sweet real chocolate chips 60 mL butter  Directions   For cookies, in a large mixer bowl combine sugar, butter, cream cheese, egg and peppermint extract. Beat at medium speed, scraping bowl often, until light and fluffy.</description>
+    </item>
     
     <item>
       <title>Nicole&#39;s brownies</title>
@@ -16,7 +27,7 @@
       <pubDate>Fri, 28 Sep 2012 00:00:00 +0000</pubDate>
       
       <guid>https://patricerecipebook.com/dessert/nicoles_brownies/</guid>
-      <description>Ingredients  1 1&amp;frasl;2 cups semisweet chocolate chips 1 (19 ounce) can garbanzo beans, rinsed and drained 4 eggs 3&amp;frasl;4 cup white sugar 1&amp;frasl;2 teaspoon baking powder 1 tablespoon confectioners&amp;rsquo; sugar for dusting  Directions  Preheat the oven to 350 degrees F (175 degrees C). Grease a 9-inch round cake pan. Place the chocolate chips into a microwave-safe bowl. Cook in the microwave for about 2 minutes, stirring every 20 seconds after the first minute, until chocolate is melted and smooth.</description>
+      <description>Ingredients  1 1/2 cups semisweet chocolate chips 1 (19 ounce) can garbanzo beans, rinsed and drained 4 eggs 3/4 cup white sugar 1/2 teaspoon baking powder 1 tablespoon confectioners&amp;rsquo; sugar for dusting  Directions  Preheat the oven to 350 degrees F (175 degrees C). Grease a 9-inch round cake pan. Place the chocolate chips into a microwave-safe bowl. Cook in the microwave for about 2 minutes, stirring every 20 seconds after the first minute, until chocolate is melted and smooth.</description>
     </item>
     
   </channel>
